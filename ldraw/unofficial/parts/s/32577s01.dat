@@ -1,0 +1,12 @@
+0 ~Technic Bionicle Body Segment Subpart (Obsolete)
+0 Name: s\32577s01.dat
+0 Author: Taylor Bangs [DoomTay]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+0 !HISTORY 2021-11-30 [MagFors] Obsoleted and emptied
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 empty.dat
