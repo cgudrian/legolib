@@ -6,10 +6,11 @@
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Speed Champions, Chevrolet, Camaro, ZL1, Z/28, Drag, Race
+0 !KEYWORDS Speed Champions, Chevrolet, Camaro, SS, Z/28, Drag, Race
 0 !KEYWORDS Set 75874
 
 0 // Primitives
+
 1 16 -16.5 0 16.5 -1.5 0 0 0 -1 0 0 0 1.5 1-4chrd.dat
 1 16 16.5 0 16.5 1.5 0 0 0 -1 0 0 0 1.5 1-4chrd.dat
 1 16 -16.5 0 -16.5 -1.5 0 0 0 -1 0 0 0 -1.5 1-4chrd.dat

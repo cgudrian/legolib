@@ -1,4 +1,4 @@
-0 ~Electric Mindstorms RCX Module - Top Housing with Glass
+0 ~Electric Mindstorms RCX 1.0 - Top Housing with Glass
 0 Name: 76113.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Unofficial_Shortcut
@@ -7,5 +7,5 @@
 0 BFC CERTIFY CCW
 
 
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 32058.dat
-1 47 0 0 0 1 0 0 0 1 0 0 0 1 32106.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 32058p01.dat
+1 47 0 8 -10 1 0 0 0 1 0 0 0 1 32108.dat

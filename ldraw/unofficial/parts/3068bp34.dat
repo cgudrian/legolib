@@ -1,4 +1,4 @@
-0 Tile  2 x  2 with Map, Medium Blue Water, Yellow Land, Compass with Skull, Ship, Dark Red Trail and "X" Pattern
+0 Tile  2 x  2 with Map, Bright Light Blue Water, Yellow Land, Compass with Skull, Ship, Dark Red Trail and "X" Pattern
 0 Name: 3068bp34.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Unofficial_Part
@@ -9,6 +9,7 @@
 0 !KEYWORDS Bricklink 3068bpb0929, Set 41428, Set 76060, Set 60272, Set 45813, Set 75930
 0 !KEYWORDS Set 31064, Set 40158, Set 21310, Set 31109, Set 21322, Set 43114, Set 40341
 0 !KEYWORDS Set 70413, Set 70411, Set 10403, Pirates, Treasure
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
 
@@ -1942,7 +1943,6 @@
 4 320 3.52 0 .22 2.68 0 -.51 2.91 0 -.85 3.8 0 -.11
 4 320 8.46 0 2.89 9.45 0 3.58 9.17 0 3.91 8.23 0 3.22
 4 0 8.75 0 4.55 8.85 0 4.1 9.17 0 3.91 9.45 0 4.5
-3 212 -1.6 0 -.35 -1.6 0 -1.1 -.65 0 -.95
 4 212 .6 0 -.45 0 0 -.25 -1.6 0 -.35 -.65 0 -.95
 4 212 1.2 0 -.75 .6 0 -.45 -.65 0 -.95 -.2 0 -1.35
 4 212 1.2 0 -.75 -.2 0 -1.35 .4 0 -2.35 1.05 0 -1.99

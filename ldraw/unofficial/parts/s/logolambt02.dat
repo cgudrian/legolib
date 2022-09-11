@@ -10,5 +10,5 @@
 0 !HISTORY 2021-01-15 [jb70] Based on s\logolambt01.dat from [Sirio], only changed Colors
 0 !HISTORY 2021-01-27 [jb70] splitted up into subfiles to reuse the logo in different colors
 
-1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\logolambs02.dat
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\logolambs04.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 logo-lamborghini-text.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 logo-lamborghini-text-bkgd.dat

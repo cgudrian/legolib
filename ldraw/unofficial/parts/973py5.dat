@@ -1,4 +1,4 @@
-0 Minifig Torso with Race Suit with Audi Sport e-tron quattro Logos and Red and White Pattern
+0 Minifig Torso with Race Suit with "Audi Sport e-tron quattro" Logos and Red and White Pattern
 0 Name: 973py5.dat
 0 Author: Massimo Maso [Sirio]
 0 !LDRAW_ORG Unofficial_Part
@@ -6,10 +6,11 @@
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Speed Champions, Audi, e-tron, quattro, R18
+0 !KEYWORDS Speed Champions, R18
 0 !KEYWORDS Set 75872
 
 0 // Subparts
+
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 4 0 9.1 10 -.4 0 0 0 0 -.4 0 -1 0 s\logoaudil01.dat
 1 4 0 9.1 10 .4 0 0 0 0 -.4 0 -1 0 s\logoaudil01.dat

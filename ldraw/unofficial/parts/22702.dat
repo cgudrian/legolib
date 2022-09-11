@@ -1,0 +1,13 @@
+0 ~Electric Mindstorms RCX Module - Circuit Board (Needs Work)
+0 Name: 22702.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 // PCB
+1 16 0 30 -10 60 0 0 0 1 0 0 0 100 box.dat
+0 // Center Display
+1 17 0 20 -10 42 0 0 0 -6 0 0 0 19 box5.dat
+1 0 0 30 -10 43 0 0 0 -10 0 0 0 20 box5.dat
