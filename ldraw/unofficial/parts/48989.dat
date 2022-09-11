@@ -1,0 +1,19 @@
+0 Technic Cross Block 1 x 3 (Pin/Pin/Pin) with 4 Pins
+0 Name: 48989.dat
+0 Author: Guy Vivan [guyvivan]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2021-03-14 [Philo] Subparted for variants
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\48989s01.dat
+1 16 0 20 10 0 0 1 -1 0 0 0 -1 0 connect.dat
+1 16 0 20 10 4 0 0 0 0 4 0 -1 0 4-4edge.dat
+1 16 0 -20 10 0 0 1 1 0 0 0 -1 0 connect.dat
+1 16 0 -20 10 4 0 0 0 0 -4 0 -1 0 4-4edge.dat
+1 16 0 20 -10 0 0 1 -1 0 0 0 1 0 connect.dat
+1 16 0 20 -10 4 0 0 0 0 4 0 1 0 4-4edge.dat
+1 16 0 -20 -10 0 0 1 1 0 0 0 1 0 connect.dat
+1 16 0 -20 -10 4 0 0 0 0 -4 0 1 0 4-4edge.dat
